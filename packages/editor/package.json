@@ -1,0 +1,18 @@
+{
+  "name": "@veditor/editor",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Jagger <634750802@qq.com>",
+  "homepage": "https://github.com/veditor/veditor/tree/master/packages/editor#readme",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veditor/veditor.git"
+  },
+  "scripts": {
+  },
+  "bugs": {
+    "url": "https://github.com/veditor/veditor/issues"
+  }
+}

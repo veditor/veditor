@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "description": "VEditor is a editor and viewer for pluggable markdown",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veditor/veditor.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veditor/veditor/issues"
+  },
+  "homepage": "https://github.com/veditor/veditor#readme",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "name": "veditor"
+}
