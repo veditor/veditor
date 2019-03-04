@@ -1,6 +1,6 @@
 {
   "name": "@veditor/plugin-service",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Jagger <634750802@qq.com>",
   "homepage": "https://github.com/veditor/veditor/tree/master/packages/plugin-service#readme",
@@ -10,8 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/veditor/veditor.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/veditor/veditor/issues"
   }
