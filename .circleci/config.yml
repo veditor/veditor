@@ -35,6 +35,7 @@ jobs:
 
       - run:
           name: Build UI
-          command: cd packages/ui && yarn build
+          command: yarn build
+          working_directory: packages/ui
 #      # run tests!
 #      - run: yarn test
