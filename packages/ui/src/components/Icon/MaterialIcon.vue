@@ -3,6 +3,7 @@
 </template>
 
 <script>
+  import 'material-design-icons/iconfont/material-icons.css'
   import all from 'raw-loader!material-design-icons/iconfont/codepoints'
 
   export default {
@@ -19,7 +20,6 @@
 </script>
 
 <style lang="scss">
-  @import '~material-design-icons/iconfont/material-icons.css';
 
   .material-icons {
     user-select: none;

@@ -5,6 +5,7 @@
 </template>
 
 <script>
+  import 'perfect-scrollbar/css/perfect-scrollbar.css'
   import PerfectScrollbar from 'perfect-scrollbar'
 
   export default {
@@ -22,7 +23,6 @@
 </script>
 
 <style lang="scss">
-  @import "~perfect-scrollbar/css/perfect-scrollbar.css";
   .v-scrollable {
     position: relative;
     overflow-x: hidden;
