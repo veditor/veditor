@@ -36,6 +36,6 @@ jobs:
       - run:
           name: Build UI
           command: yarn build
-          cwd: ~/repo/packages/ui
+          cwd: ~/project/packages/ui
 #      # run tests!
 #      - run: yarn test
