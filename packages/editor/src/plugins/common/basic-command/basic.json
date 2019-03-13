@@ -1,0 +1,20 @@
+[
+  {
+    "key": "bold",
+    "icon": "format_bold",
+    "hotKey": "mod+b",
+    "command": "Bold"
+  },
+  {
+    "key": "italic",
+    "icon": "format_italic",
+    "hotKey": "mod+i",
+    "command": "Italic"
+  },
+  {
+    "key": "underlined",
+    "icon": "format_underlined",
+    "hotKey": "mod+u",
+    "command": "Underline"
+  }
+]

@@ -1,17 +1,32 @@
 {
   "name": "@veditor/editor",
-  "version": "0.0.1",
-  "description": "> TODO: description",
-  "author": "Jagger <634750802@qq.com>",
-  "homepage": "https://github.com/veditor/veditor/tree/master/packages/editor#readme",
-  "license": "MIT",
-  "main": "dist/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/veditor/veditor.git"
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build --target lib --name VEditor src/index.js",
+    "lint": "vue-cli-service lint"
   },
-  "scripts": {},
-  "bugs": {
-    "url": "https://github.com/veditor/veditor/issues"
+  "dependencies": {
+    "vue": "^2.6.6"
+  },
+  "devDependencies": {
+    "@types/codemirror": "^0.0.72",
+    "@types/mousetrap": "^1.6.1",
+    "@veditor/ui": "^0.0.1",
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-service": "^3.4.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "aphrodite": "^2.3.1",
+    "babel-eslint": "^10.0.1",
+    "codemirror": "^5.44.0",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "material-design-icons": "^3.0.1",
+    "mousetrap": "^1.6.3",
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.1.0",
+    "vue-color": "^2.7.0",
+    "vue-template-compiler": "^2.5.21"
   }
 }

@@ -1,0 +1,12 @@
+[
+  {
+    "key": "decrease-indent",
+    "icon": "format_indent_decrease",
+    "command": "Outdent"
+  },
+  {
+    "key": "increase-indent",
+    "icon": "format_indent_increase",
+    "command": "Indent"
+  }
+]

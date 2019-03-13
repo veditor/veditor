@@ -1,0 +1,38 @@
+[
+  {
+    "key": "heading-1",
+    "iconContent": "H1",
+    "command": "formatBlock",
+    "commandArg": "H1"
+  },
+  {
+    "key": "heading-2",
+    "iconContent": "H2",
+    "command": "formatBlock",
+    "commandArg": "H2"
+  },
+  {
+    "key": "heading-3",
+    "iconContent": "H3",
+    "command": "formatBlock",
+    "commandArg": "H3"
+  },
+  {
+    "key": "heading-4",
+    "iconContent": "H4",
+    "command": "formatBlock",
+    "commandArg": "H4"
+  },
+  {
+    "key": "heading-5",
+    "iconContent": "H5",
+    "command": "formatBlock",
+    "commandArg": "H5"
+  },
+  {
+    "key": "heading-6",
+    "iconContent": "H6",
+    "command": "formatBlock",
+    "commandArg": "H6"
+  }
+]

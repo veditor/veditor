@@ -1,0 +1,22 @@
+[
+  {
+    "key": "align-start",
+    "icon": "format_align_left",
+    "command": "justifyLeft"
+  },
+  {
+    "key": "align-center",
+    "icon": "format_align_center",
+    "command": "justifyCenter"
+  },
+  {
+    "key": "align-end",
+    "icon": "format_align_right",
+    "command": "justifyRight"
+  },
+  {
+    "key": "align-justify",
+    "icon": "format_align_justify",
+    "command": "justifyFull"
+  }
+]

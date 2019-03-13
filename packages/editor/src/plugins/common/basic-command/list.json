@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ordered-list",
+    "icon": "format_list_numbered",
+    "command": "InsertOrderedList"
+  },
+  {
+    "key": "unordered-list",
+    "icon": "format_list_bulleted",
+    "command": "InsertUnorderedList"
+  }
+]
