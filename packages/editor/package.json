@@ -7,12 +7,12 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "undefined": "/Users/td/Documents/veditor/veditor/packages/ui",
     "vue": "^2.6.6"
   },
   "devDependencies": {
     "@types/codemirror": "^0.0.72",
     "@types/mousetrap": "^1.6.1",
-    "@veditor/ui": "^0.0.1",
     "@vue/cli-plugin-babel": "^3.4.0",
     "@vue/cli-plugin-eslint": "^3.4.0",
     "@vue/cli-service": "^3.4.0",
