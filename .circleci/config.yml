@@ -37,5 +37,11 @@ jobs:
           name: Build UI
           command: yarn build
           working_directory: packages/ui
+
+      - run:
+          name: Build Editor
+          command: yarn build
+          working_directory: packages/editor
+
 #      # run tests!
 #      - run: yarn test
